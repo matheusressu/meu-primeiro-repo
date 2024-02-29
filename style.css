@@ -1,0 +1,36 @@
+.card {
+    background-color: #40e0d0;
+    width: 500px;
+    height: fit-content;
+    border-radius: 20px;
+    border: solid 5px #009c97;
+}
+.card2 {
+    margin-top:10px;
+    background-color: #cf96f6;
+    width: 500px; height: fit-content;
+    border-radius: 20px; 
+    border: solid 5px #9530bd;
+}
+.boximg {
+    margin: 10px;
+    width: 100px; 
+    height: 100px;
+    background-image: url("https://cdn-icons-png.flaticon.com/512/706/706830.png");
+    background-size: cover;
+}
+
+.imgmenino {
+    background-image: url("https://cdn-icons-png.flaticon.com/512/706/706797.png");
+}
+.img {
+    width: 100%; 
+    height: 100%
+}
+.text {
+    margin: 10px;
+}
+
+.maincolor {
+    color: rgb(12, 12, 59);
+}
